@@ -12,6 +12,10 @@ How to get a rainbow shader and emblem in [Destiny](https://bungie.com)
 4. Change "var equipePiece      = 'shader';"  shader to emblem for emblem rainbow
 5. Check if you emblem or shader is changing and check in game and have fun ;-)
 
+>>> For the Tutorial Video check
+[Youtube how to Video](http://youtu.be/gSn9Bedxa7g)
+
+
 ### Javascript (shader)
 ```js
 var shaderEquipTimer = 2500;
